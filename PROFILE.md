@@ -1,1 +1,1 @@
-`#ffffff`Welcome to my GitHub profile!
+`#000000` Welcome to my GitHub profile!
