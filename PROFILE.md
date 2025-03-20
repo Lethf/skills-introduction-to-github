@@ -1,1 +1,2 @@
-`#000000` Welcome to my GitHub profile!
+`#0969DA`
+Welcome to my GitHub profile!
